@@ -1,4 +1,4 @@
-# myapp
+# MediAssist
 
 A new Flutter project.
 
